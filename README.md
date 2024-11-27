@@ -23,7 +23,9 @@ With increasing global temperatures, glacial lakes are expanding, raising the ri
 **Modeling Techniques:** Time Series Analysis, Regression, Classification <br />
 **Models Deployment:** Flask (for API), Docker <br />
 **Notifications:** Twilio (for SMS alerts), SendGrid (for email notifications) <br />
-![image](https://github.com/user-attachments/assets/91baee2c-27fc-458d-bf42-b55e833b5c46)
+<br />
+![Screenshot 2024-11-27 185903](https://github.com/user-attachments/assets/7971c196-deff-44b5-8e1c-8e735da08857)
+<br /><br />
 
 # Data Sources:
 **Satellite Imagery:** MODIS <br /><br />
