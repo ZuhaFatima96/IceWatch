@@ -5,20 +5,20 @@ This project presents an AI-based early warning system designed to predict poten
 # Problem Statement:
 With increasing global temperatures, glacial lakes are expanding, raising the risk of outburst floods that can severely impact communities and infrastructure. Traditional methods of monitoring are limited in predictive capability, making it challenging to act before a flood occurs. This project seeks to fill this gap by leveraging AI to enhance predictive accuracy for GLOFs, potentially providing early alerts that could mitigate loss of life and property damage.
 # Features
-**-Data Collection:** Aggregation of real-time data from satellite sources, meteorological stations, and environmental sensors. <br />
-**-Predictive Analysis:** Machine learning model trained to analyze collected data and predict potential GLOF events. <br />
-**-Alerts and Notifications:** Immediate notifications sent to local authorities and community members via SMS and email upon detecting a high-risk scenario. <br />
+**-Data Collection:** Aggregation of real-time data from satellite sources, meteorological stations, and environmental sensors. <br /><br />
+**-Predictive Analysis:** Machine learning model trained to analyze collected data and predict potential GLOF events. <br /><br />
+**-Alerts and Notifications:** Immediate notifications sent to local authorities and community members via SMS and email upon detecting a high-risk scenario. <br /><br />
 # Tools and Techonologies Used:
-**Programming Language:** Python
-**Machine Learning Frameworks**: TensorFlow, Scikit-learn
+**Programming Language:** Python <br />
+**Machine Learning Frameworks**: TensorFlow, Scikit-learn <br />
 **Data Processing:** Pandas, NumPy 
-**Modeling Techniques:** Time Series Analysis, Regression, Classification 
-**Models Deployment:** Flask (for API), Docker
-**Notifications:** Twilio (for SMS alerts), SendGrid (for email notifications)
+**Modeling Techniques:** Time Series Analysis, Regression, Classification <br />
+**Models Deployment:** Flask (for API), Docker <br />
+**Notifications:** Twilio (for SMS alerts), SendGrid (for email notifications) <br />
 # Data Sources:
-Satellite Imagery: MODIS
-Ice Velocity Data: ITS_LIVE
-Landsat Climate Data: Local meteorological stations 
-Hydrological Data: River discharge and glacial lake water levels
+Satellite Imagery: MODIS <br /><br />
+Ice Velocity Data: ITS_LIVE <br /><br />
+Landsat Climate Data: Local meteorological stations <br /><br />
+Hydrological Data: River discharge and glacial lake water levels <br /><br />
 
 
