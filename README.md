@@ -17,7 +17,7 @@ With increasing global temperatures, glacial lakes are expanding, raising the ri
 **Notifications:** Twilio (for SMS alerts), SendGrid (for email notifications) <br />
 # Data Sources:
 Satellite Imagery: MODIS <br /><br />
-Ice Velocity Data: ITS_LIVE <br /><br />
+Ice Velocity Data: ITS_LIVE <br /> https://nsidc.org/apps/itslive/ <br /><br />
 Landsat Climate Data: Local meteorological stations <br /><br />
 Hydrological Data: River discharge and glacial lake water levels <br /><br />
 
