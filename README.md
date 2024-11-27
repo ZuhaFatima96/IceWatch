@@ -5,9 +5,9 @@ This project presents an AI-based early warning system designed to predict poten
 # Problem Statement:
 With increasing global temperatures, glacial lakes are expanding, raising the risk of outburst floods that can severely impact communities and infrastructure. Traditional methods of monitoring are limited in predictive capability, making it challenging to act before a flood occurs. This project seeks to fill this gap by leveraging AI to enhance predictive accuracy for GLOFs, potentially providing early alerts that could mitigate loss of life and property damage.
 # Features
-**-Data Collection:** Aggregation of real-time data from satellite sources, meteorological stations, and environmental sensors. 
-**-Predictive Analysis:** Machine learning model trained to analyze collected data and predict potential GLOF events. 
-**-Alerts and Notifications:** Immediate notifications sent to local authorities and community members via SMS and email upon detecting a high-risk scenario.
+**-Data Collection:** Aggregation of real-time data from satellite sources, meteorological stations, and environmental sensors. <br />
+**-Predictive Analysis:** Machine learning model trained to analyze collected data and predict potential GLOF events. <br />
+**-Alerts and Notifications:** Immediate notifications sent to local authorities and community members via SMS and email upon detecting a high-risk scenario. <br />
 # Tools and Techonologies Used:
 **Programming Language:** Python
 **Machine Learning Frameworks**: TensorFlow, Scikit-learn
