@@ -2,7 +2,8 @@
 Glacial Lake Outburst Flood (GLOF) Prediction System Using Deep Learning
 # Project Overview:
 This project presents an AI-based early warning system designed to predict potential Glacial Lake Outburst Floods (GLOFs), using environmental data, machine learning, and real-time monitoring. Inspired by the 2022 floods, which brought significant devastation to our region, this system aims to reduce the impact of such natural disasters by providing timely warnings.
-![image](https://github.com/user-attachments/assets/afc33065-0322-4d15-b9cd-af54320cce06)
+![Screenshot 2024-11-27 190035](https://github.com/user-attachments/assets/e9561208-b638-49fd-9c51-00703619a004)
+
 <br /><br />
 
 https://github.com/user-attachments/assets/1ee5b4a3-8bae-4988-8ddd-bdd7ec1bcd1a
